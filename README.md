@@ -1,0 +1,1 @@
+This repository has been created in order to document any learnings pertaining to data analytics, manipulation, or visualization. This is not part of any project and is purely a brainstorming area of working code or relevant information.
